@@ -103,7 +103,7 @@ I continuously add new Java programs and improve my existing solutions.
 
 ## 👨‍💻 About Me
 
-**Devashish Paloi**
+**Debashis Palai**
 
 Aspiring Java Full Stack Developer | B.Tech CSE Graduate | Java Programming Enthusiast
 
